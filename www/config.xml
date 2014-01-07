@@ -45,7 +45,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="IMG/bgs_nav_logo2.png" />
+    <icon src="img/bgs_nav_logo2.png" />
     <!--
 	<icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android" />
     
